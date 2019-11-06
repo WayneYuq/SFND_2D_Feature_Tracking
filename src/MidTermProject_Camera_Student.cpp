@@ -89,25 +89,9 @@ int main(int argc, const char *argv[])
         {
             detKeypointsHarris(keypoints, imgGray, false);
         }
-        else if (detectorType.compare("FAST") == 0)
+        else
         {
-
-        }
-        else if (detectorType.compare("BRISK") == 0)
-        {
-
-        }
-        else if (detectorType.compare("ORB") == 0)
-        {
-
-        }
-        else if (detectorType.compare("AKAZE") == 0)
-        {
-
-        }
-        else if (detectorType.compare("SIFT") == 0)
-        {
-
+            detKeypointsModern(keypoints, imgGray, detectorType, false);
         }
 
         //// EOF STUDENT ASSIGNMENT
@@ -120,7 +104,16 @@ int main(int argc, const char *argv[])
         cv::Rect vehicleRect(535, 180, 180, 150);
         if (bFocusOnVehicle)
         {
-            // ...
+            for (auto it = keypoints.begin(); it != keypoints.end(); ++it)
+            {
+                if ((*it).x < vehicleRect.tl().x
+                 || (*it).x > vehicleRect.br().x
+                 || (*it).y < vehicleRect.tl().y
+                 || (*it).y > vehicleRect.br().y)
+                {
+                    keypoints.erase(it);
+                }
+            }
         }
 
         //// EOF STUDENT ASSIGNMENT
