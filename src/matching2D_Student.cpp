@@ -29,7 +29,6 @@ void matchDescriptors(std::vector<cv::KeyPoint> &kPtsSource, std::vector<cv::Key
     // perform matching task
     if (selectorType.compare("SEL_NN") == 0)
     { // nearest neighbor (best match)
-
         matcher->match(descSource, descRef, matches); // Finds the best match for each descriptor in desc1
     }
     else if (selectorType.compare("SEL_KNN") == 0)
@@ -37,7 +36,7 @@ void matchDescriptors(std::vector<cv::KeyPoint> &kPtsSource, std::vector<cv::Key
         vector<vector<cv::DMatch>> knn_matches;
         matcher->knnMatch(descSource, descRef, knn_matches, 2);
 
-        double minDescDistRatio = 0.8;
+        double minDescDistRatio = 0.8; // descriptor distance ratio
         for (auto it = knn_matches.begin(); it != knn_matches.end(); ++it)
         {
             if ((*it)[0].distance < minDescDistRatio * (*it)[1].distance)
@@ -46,6 +45,13 @@ void matchDescriptors(std::vector<cv::KeyPoint> &kPtsSource, std::vector<cv::Key
             }
         }
     }
+
+    t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+    cout << "With matcher type " << matcherType
+         << " and selector type " << selectorType
+         << " match descriptors with n=" 
+         << matches.size() 
+         << " matches in " << 1000 * t / 1.0 << " ms" << endl;
 }
 
 // Use one of several types of state-of-art descriptors to uniquely identify keypoints
@@ -143,6 +149,8 @@ void detKeypointsHarris(std::vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool
     // Detect Harris corners and normalize output
     cv::Mat dst, dst_norm, dst_norm_scaled;
     dst = cv::Mat::zeros(img.size(), CV_32FC1);
+    double t = (double)cv::getTickCount();
+
     cv::cornerHarris(img, dst, blockSize, apertureSize, k, cv::BORDER_DEFAULT);
     cv::normalize(dst, dst_norm, 0, 255, cv::NORM_MINMAX, CV_32FC1, cv::Mat());
     cv::convertScaleAbs(dst_norm, dst_norm_scaled);
@@ -183,6 +191,8 @@ void detKeypointsHarris(std::vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool
             }
         } // eof loop over cols
     }     // eof loop over rows
+    t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+    cout << "Harris detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
 
     // visualize results
     if (bVis)
