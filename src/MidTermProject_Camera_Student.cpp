@@ -106,10 +106,10 @@ int main(int argc, const char *argv[])
         {
             for (auto it = keypoints.begin(); it != keypoints.end(); ++it)
             {
-                if ((*it).x < vehicleRect.tl().x
-                 || (*it).x > vehicleRect.br().x
-                 || (*it).y < vehicleRect.tl().y
-                 || (*it).y > vehicleRect.br().y)
+                if ((*it).pt.x < vehicleRect.tl().x
+                 || (*it).pt.x > vehicleRect.br().x
+                 || (*it).pt.y < vehicleRect.tl().y
+                 || (*it).pt.y > vehicleRect.br().y)
                 {
                     keypoints.erase(it);
                 }
