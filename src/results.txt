@@ -1,332 +1,496 @@
 ########### FAST, BRIEF ###########
 
-FAST with n= 1824 keypoints in 1.14282 ms
-BRIEF descriptor extraction in 2.56788 ms
-FAST with n= 1832 keypoints in 1.07919 ms
-BRIEF descriptor extraction in 1.8469 ms
-FAST with n= 1810 keypoints in 1.90688 ms
-BRIEF descriptor extraction in 1.05988 ms
-FAST with n= 1817 keypoints in 0.837911 ms
-BRIEF descriptor extraction in 0.737553 ms
-FAST with n= 1793 keypoints in 0.68819 ms
-BRIEF descriptor extraction in 0.678652 ms
-FAST with n= 1796 keypoints in 0.907642 ms
-BRIEF descriptor extraction in 0.614172 ms
-FAST with n= 1788 keypoints in 0.84295 ms
-BRIEF descriptor extraction in 0.554359 ms
-FAST with n= 1695 keypoints in 1.52285 ms
-BRIEF descriptor extraction in 1.00768 ms
-FAST with n= 1749 keypoints in 0.95465 ms
-BRIEF descriptor extraction in 0.832281 ms
-FAST with n= 1770 keypoints in 0.839505 ms
-BRIEF descriptor extraction in 0.701215 ms
+FAST with n= 1824 keypoints in 0.842811 ms
+BRIEF descriptor extraction in 1.50051 ms
+FAST with n= 1832 keypoints in 1.13529 ms
+BRIEF descriptor extraction in 1.01505 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=119 matches in 0.375524 ms
+FAST with n= 1810 keypoints in 0.662994 ms
+BRIEF descriptor extraction in 1.95739 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=130 matches in 0.261811 ms
+FAST with n= 1817 keypoints in 0.919915 ms
+BRIEF descriptor extraction in 0.873418 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=118 matches in 0.343414 ms
+FAST with n= 1793 keypoints in 0.652293 ms
+BRIEF descriptor extraction in 0.75682 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=126 matches in 0.292239 ms
+FAST with n= 1796 keypoints in 0.816051 ms
+BRIEF descriptor extraction in 1.06062 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=108 matches in 0.315071 ms
+FAST with n= 1788 keypoints in 0.895189 ms
+BRIEF descriptor extraction in 1.37207 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=123 matches in 0.312085 ms
+FAST with n= 1695 keypoints in 0.870212 ms
+BRIEF descriptor extraction in 0.838783 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=131 matches in 0.515998 ms
+FAST with n= 1749 keypoints in 0.809669 ms
+BRIEF descriptor extraction in 0.635171 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=125 matches in 0.507541 ms
+FAST with n= 1770 keypoints in 0.830207 ms
+BRIEF descriptor extraction in 0.616195 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=119 matches in 0.205596 ms
 
 
 ########### FAST, BRISK ###########
 
-FAST with n= 1824 keypoints in 1.01929 ms
-BRISK descriptor extraction in 1.67426 ms
-FAST with n= 1832 keypoints in 0.75214 ms
-BRISK descriptor extraction in 1.57952 ms
-FAST with n= 1810 keypoints in 1.03532 ms
-BRISK descriptor extraction in 1.58512 ms
-FAST with n= 1817 keypoints in 0.842991 ms
-BRISK descriptor extraction in 1.34668 ms
-FAST with n= 1793 keypoints in 0.845476 ms
-BRISK descriptor extraction in 1.31082 ms
-FAST with n= 1796 keypoints in 0.985869 ms
-BRISK descriptor extraction in 1.44252 ms
-FAST with n= 1788 keypoints in 0.701305 ms
-BRISK descriptor extraction in 1.43497 ms
-FAST with n= 1695 keypoints in 0.680957 ms
-BRISK descriptor extraction in 1.31274 ms
-FAST with n= 1749 keypoints in 0.672962 ms
-BRISK descriptor extraction in 1.23442 ms
-FAST with n= 1770 keypoints in 0.641022 ms
-BRISK descriptor extraction in 1.26337 ms
+FAST with n= 1824 keypoints in 0.73607 ms
+BRISK descriptor extraction in 1.77582 ms
+FAST with n= 1832 keypoints in 0.800321 ms
+BRISK descriptor extraction in 1.6262 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=97 matches in 0.385884 ms
+FAST with n= 1810 keypoints in 0.867527 ms
+BRISK descriptor extraction in 1.6044 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=104 matches in 0.589596 ms
+FAST with n= 1817 keypoints in 1.60352 ms
+BRISK descriptor extraction in 1.35985 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=101 matches in 0.249678 ms
+FAST with n= 1793 keypoints in 1.61413 ms
+BRISK descriptor extraction in 1.31194 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=98 matches in 0.354184 ms
+FAST with n= 1796 keypoints in 1.21372 ms
+BRISK descriptor extraction in 1.41334 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=85 matches in 0.568716 ms
+FAST with n= 1788 keypoints in 1.60841 ms
+BRISK descriptor extraction in 1.43216 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=107 matches in 0.322946 ms
+FAST with n= 1695 keypoints in 1.5691 ms
+BRISK descriptor extraction in 1.32005 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=107 matches in 0.324949 ms
+FAST with n= 1749 keypoints in 1.74339 ms
+BRISK descriptor extraction in 1.21806 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=100 matches in 0.305563 ms
+FAST with n= 1770 keypoints in 1.05714 ms
+BRISK descriptor extraction in 1.4176 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=100 matches in 0.245751 ms
 
 
 ########### FAST, ORB ###########
 
-FAST with n= 1824 keypoints in 0.818986 ms
-ORB descriptor extraction in 1.24813 ms
-FAST with n= 1832 keypoints in 0.770786 ms
-ORB descriptor extraction in 1.13386 ms
-FAST with n= 1810 keypoints in 1.577 ms
-ORB descriptor extraction in 1.47607 ms
-FAST with n= 1817 keypoints in 0.851277 ms
-ORB descriptor extraction in 0.919474 ms
-FAST with n= 1793 keypoints in 1.23369 ms
-ORB descriptor extraction in 0.868469 ms
-FAST with n= 1796 keypoints in 0.699822 ms
-ORB descriptor extraction in 0.941175 ms
-FAST with n= 1788 keypoints in 1.74378 ms
-ORB descriptor extraction in 1.87838 ms
-FAST with n= 1695 keypoints in 0.621716 ms
-ORB descriptor extraction in 1.5464 ms
-FAST with n= 1749 keypoints in 0.72473 ms
-ORB descriptor extraction in 1.51717 ms
-FAST with n= 1770 keypoints in 0.930194 ms
-ORB descriptor extraction in 1.47017 ms
+FAST with n= 1824 keypoints in 0.765516 ms
+ORB descriptor extraction in 1.36795 ms
+FAST with n= 1832 keypoints in 0.790503 ms
+ORB descriptor extraction in 1.75321 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=118 matches in 0.392086 ms
+FAST with n= 1810 keypoints in 0.78904 ms
+ORB descriptor extraction in 0.930716 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=123 matches in 0.270527 ms
+FAST with n= 1817 keypoints in 0.915197 ms
+ORB descriptor extraction in 1.01275 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=112 matches in 0.279544 ms
+FAST with n= 1793 keypoints in 0.860154 ms
+ORB descriptor extraction in 1.51098 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=126 matches in 0.36284 ms
+FAST with n= 1796 keypoints in 1.02658 ms
+ORB descriptor extraction in 1.60942 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=106 matches in 0.308909 ms
+FAST with n= 1788 keypoints in 0.65619 ms
+ORB descriptor extraction in 1.68727 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=122 matches in 0.339597 ms
+FAST with n= 1695 keypoints in 1.56851 ms
+ORB descriptor extraction in 1.28756 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=122 matches in 0.346851 ms
+FAST with n= 1749 keypoints in 1.93019 ms
+ORB descriptor extraction in 1.05243 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=123 matches in 0.252855 ms
+FAST with n= 1770 keypoints in 0.800701 ms
+ORB descriptor extraction in 0.96524 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=119 matches in 0.245851 ms
+
 
 ########### Shi-Tomasi, BRISK ###########
 
-Shi-Tomasi detection with n=1370 keypoints in 18.7085 ms
-BRISK descriptor extraction in 1.1839 ms
-Shi-Tomasi detection with n=1301 keypoints in 14.652 ms
-BRISK descriptor extraction in 1.82835 ms
-Shi-Tomasi detection with n=1361 keypoints in 12.5187 ms
-BRISK descriptor extraction in 2.30134 ms
-Shi-Tomasi detection with n=1358 keypoints in 19.7798 ms
-BRISK descriptor extraction in 1.45687 ms
-Shi-Tomasi detection with n=1333 keypoints in 16.2142 ms
-BRISK descriptor extraction in 1.67541 ms
-Shi-Tomasi detection with n=1284 keypoints in 14.6896 ms
-BRISK descriptor extraction in 1.60359 ms
-Shi-Tomasi detection with n=1322 keypoints in 13.7387 ms
-BRISK descriptor extraction in 1.61991 ms
-Shi-Tomasi detection with n=1366 keypoints in 14.685 ms
-BRISK descriptor extraction in 1.71035 ms
-Shi-Tomasi detection with n=1389 keypoints in 18.4376 ms
-BRISK descriptor extraction in 2.17629 ms
-Shi-Tomasi detection with n=1339 keypoints in 14.4732 ms
-BRISK descriptor extraction in 1.4843 ms
+Shi-Tomasi detection with n=1370 keypoints in 14.9389 ms
+BRISK descriptor extraction in 1.16618 ms
+Shi-Tomasi detection with n=1301 keypoints in 13.427 ms
+BRISK descriptor extraction in 1.61717 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=95 matches in 0.317616 ms
+Shi-Tomasi detection with n=1361 keypoints in 11.7154 ms
+BRISK descriptor extraction in 1.41761 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=88 matches in 0.250349 ms
+Shi-Tomasi detection with n=1358 keypoints in 15.3105 ms
+BRISK descriptor extraction in 1.42401 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=80 matches in 0.228709 ms
+Shi-Tomasi detection with n=1333 keypoints in 12.3686 ms
+BRISK descriptor extraction in 1.57431 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=90 matches in 0.251682 ms
+Shi-Tomasi detection with n=1284 keypoints in 11.895 ms
+BRISK descriptor extraction in 1.45032 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=82 matches in 0.457238 ms
+Shi-Tomasi detection with n=1322 keypoints in 12.1468 ms
+BRISK descriptor extraction in 1.3587 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=79 matches in 0.537047 ms
+Shi-Tomasi detection with n=1366 keypoints in 12.4593 ms
+BRISK descriptor extraction in 1.42885 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=85 matches in 0.221595 ms
+Shi-Tomasi detection with n=1389 keypoints in 11.3764 ms
+BRISK descriptor extraction in 1.34705 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=86 matches in 0.220784 ms
+Shi-Tomasi detection with n=1339 keypoints in 12.2163 ms
+BRISK descriptor extraction in 1.34891 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=82 matches in 0.214893 ms
 
 
 ########### Shi-Tomasi, BRIEF ###########
 
-Shi-Tomasi detection with n=1370 keypoints in 13.0956 ms
-BRIEF descriptor extraction in 0.462737 ms
-Shi-Tomasi detection with n=1301 keypoints in 12.0632 ms
-BRIEF descriptor extraction in 1.03405 ms
-Shi-Tomasi detection with n=1361 keypoints in 11.5854 ms
-BRIEF descriptor extraction in 1.28621 ms
-Shi-Tomasi detection with n=1358 keypoints in 13.4593 ms
-BRIEF descriptor extraction in 0.865603 ms
-Shi-Tomasi detection with n=1333 keypoints in 13.5091 ms
-BRIEF descriptor extraction in 0.805801 ms
-Shi-Tomasi detection with n=1284 keypoints in 10.0755 ms
-BRIEF descriptor extraction in 0.87466 ms
-Shi-Tomasi detection with n=1322 keypoints in 11.0566 ms
-BRIEF descriptor extraction in 1.03587 ms
-Shi-Tomasi detection with n=1366 keypoints in 10.9485 ms
-BRIEF descriptor extraction in 0.50128 ms
-Shi-Tomasi detection with n=1389 keypoints in 11.1826 ms
-BRIEF descriptor extraction in 0.889108 ms
-Shi-Tomasi detection with n=1339 keypoints in 9.66038 ms
-BRIEF descriptor extraction in 0.54415 ms
+Shi-Tomasi detection with n=1370 keypoints in 20.2831 ms
+BRIEF descriptor extraction in 1.1858 ms
+Shi-Tomasi detection with n=1301 keypoints in 17.523 ms
+BRIEF descriptor extraction in 1.2716 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=115 matches in 0.879459 ms
+Shi-Tomasi detection with n=1361 keypoints in 11.3696 ms
+BRIEF descriptor extraction in 0.999204 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=111 matches in 0.241282 ms
+Shi-Tomasi detection with n=1358 keypoints in 11.4035 ms
+BRIEF descriptor extraction in 1.03288 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=104 matches in 0.215674 ms
+Shi-Tomasi detection with n=1333 keypoints in 11.3013 ms
+BRIEF descriptor extraction in 1.11764 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=101 matches in 0.219983 ms
+Shi-Tomasi detection with n=1284 keypoints in 11.4292 ms
+BRIEF descriptor extraction in 1.32247 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=102 matches in 0.259797 ms
+Shi-Tomasi detection with n=1322 keypoints in 11.6607 ms
+BRIEF descriptor extraction in 1.90985 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=102 matches in 0.237715 ms
+Shi-Tomasi detection with n=1366 keypoints in 11.3698 ms
+BRIEF descriptor extraction in 2.03355 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=100 matches in 0.302357 ms
+Shi-Tomasi detection with n=1389 keypoints in 11.6624 ms
+BRIEF descriptor extraction in 1.34218 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=109 matches in 0.694793 ms
+Shi-Tomasi detection with n=1339 keypoints in 12.8421 ms
+BRIEF descriptor extraction in 1.53689 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=100 matches in 0.228599 ms
 
 
 ########### Shi-Tomasi, ORB ###########
 
-Shi-Tomasi detection with n=1370 keypoints in 12.1883 ms
-ORB descriptor extraction in 0.93276 ms
-Shi-Tomasi detection with n=1301 keypoints in 12.064 ms
-ORB descriptor extraction in 1.09251 ms
-Shi-Tomasi detection with n=1361 keypoints in 13.6087 ms
-ORB descriptor extraction in 0.885711 ms
-Shi-Tomasi detection with n=1358 keypoints in 19.8961 ms
-ORB descriptor extraction in 1.39172 ms
-Shi-Tomasi detection with n=1333 keypoints in 15.9666 ms
-ORB descriptor extraction in 0.922981 ms
-Shi-Tomasi detection with n=1284 keypoints in 16.202 ms
-ORB descriptor extraction in 0.903164 ms
-Shi-Tomasi detection with n=1322 keypoints in 10.0464 ms
-ORB descriptor extraction in 1.07719 ms
-Shi-Tomasi detection with n=1366 keypoints in 12.4196 ms
-ORB descriptor extraction in 1.58975 ms
-Shi-Tomasi detection with n=1389 keypoints in 16.9881 ms
-ORB descriptor extraction in 0.941084 ms
-Shi-Tomasi detection with n=1339 keypoints in 15.8321 ms
-ORB descriptor extraction in 1.45663 ms
+Shi-Tomasi detection with n=1370 keypoints in 13.9352 ms
+ORB descriptor extraction in 1.78828 ms
+Shi-Tomasi detection with n=1301 keypoints in 14.5974 ms
+ORB descriptor extraction in 1.08839 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=106 matches in 0.36783 ms
+Shi-Tomasi detection with n=1361 keypoints in 14.3004 ms
+ORB descriptor extraction in 1.21579 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=102 matches in 1.36034 ms
+Shi-Tomasi detection with n=1358 keypoints in 12.656 ms
+ORB descriptor extraction in 2.25859 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=99 matches in 0.231023 ms
+Shi-Tomasi detection with n=1333 keypoints in 10.7003 ms
+ORB descriptor extraction in 1.0354 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=102 matches in 0.296075 ms
+Shi-Tomasi detection with n=1284 keypoints in 12.7748 ms
+ORB descriptor extraction in 0.879981 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=103 matches in 0.179527 ms
+Shi-Tomasi detection with n=1322 keypoints in 12.5594 ms
+ORB descriptor extraction in 1.2123 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=97 matches in 0.220122 ms
+Shi-Tomasi detection with n=1366 keypoints in 12.2912 ms
+ORB descriptor extraction in 1.70703 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=98 matches in 0.256861 ms
+Shi-Tomasi detection with n=1389 keypoints in 12.404 ms
+ORB descriptor extraction in 1.39543 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=104 matches in 0.314169 ms
+Shi-Tomasi detection with n=1339 keypoints in 13.1062 ms
+ORB descriptor extraction in 1.54172 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=97 matches in 0.17615 ms
+
 
 ########### Shi-Tomasi, FREAK ###########
 
-Shi-Tomasi detection with n=1370 keypoints in 12.9937 ms
-FREAK descriptor extraction in 37.4247 ms
-Shi-Tomasi detection with n=1301 keypoints in 14.0297 ms
-FREAK descriptor extraction in 33.7345 ms
-Shi-Tomasi detection with n=1361 keypoints in 13.3243 ms
-FREAK descriptor extraction in 36.6478 ms
-Shi-Tomasi detection with n=1358 keypoints in 10.2327 ms
-FREAK descriptor extraction in 37.1953 ms
-Shi-Tomasi detection with n=1333 keypoints in 11.1402 ms
-FREAK descriptor extraction in 35.162 ms
-Shi-Tomasi detection with n=1284 keypoints in 10.3548 ms
-FREAK descriptor extraction in 36.3867 ms
-Shi-Tomasi detection with n=1322 keypoints in 9.93641 ms
-FREAK descriptor extraction in 41.1825 ms
-Shi-Tomasi detection with n=1366 keypoints in 12.8739 ms
-FREAK descriptor extraction in 34.9627 ms
-Shi-Tomasi detection with n=1389 keypoints in 13.1906 ms
-FREAK descriptor extraction in 41.2785 ms
-Shi-Tomasi detection with n=1339 keypoints in 8.97246 ms
-FREAK descriptor extraction in 38.182 ms
+Shi-Tomasi detection with n=1370 keypoints in 18.5346 ms
+FREAK descriptor extraction in 40.3625 ms
+Shi-Tomasi detection with n=1301 keypoints in 11.6485 ms
+FREAK descriptor extraction in 42.9607 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=86 matches in 0.320772 ms
+Shi-Tomasi detection with n=1361 keypoints in 12.3337 ms
+FREAK descriptor extraction in 36.974 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=90 matches in 0.476825 ms
+Shi-Tomasi detection with n=1358 keypoints in 13.4442 ms
+FREAK descriptor extraction in 39.0903 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=86 matches in 0.246432 ms
+Shi-Tomasi detection with n=1333 keypoints in 9.61503 ms
+FREAK descriptor extraction in 36.1779 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=88 matches in 0.217047 ms
+Shi-Tomasi detection with n=1284 keypoints in 8.72769 ms
+FREAK descriptor extraction in 37.45 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=86 matches in 0.243507 ms
+Shi-Tomasi detection with n=1322 keypoints in 9.43661 ms
+FREAK descriptor extraction in 40.7771 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=80 matches in 0.200005 ms
+Shi-Tomasi detection with n=1366 keypoints in 8.51178 ms
+FREAK descriptor extraction in 34.1917 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=81 matches in 0.172623 ms
+Shi-Tomasi detection with n=1389 keypoints in 9.31501 ms
+FREAK descriptor extraction in 35.1056 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=86 matches in 0.208812 ms
+Shi-Tomasi detection with n=1339 keypoints in 9.48801 ms
+FREAK descriptor extraction in 35.2886 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=85 matches in 0.196348 ms
 
 
 ########### AKAZE, AKAZE ###########
-AKAZE with n= 1351 keypoints in 83.384 ms
-AKAZE descriptor extraction in 62.0223 ms
-AKAZE with n= 1327 keypoints in 79.0666 ms
-AKAZE descriptor extraction in 62.9315 ms
-AKAZE with n= 1311 keypoints in 63.699 ms
-AKAZE descriptor extraction in 57.028 ms
-AKAZE with n= 1351 keypoints in 65.5282 ms
-AKAZE descriptor extraction in 65.6764 ms
-AKAZE with n= 1360 keypoints in 63.2602 ms
-AKAZE descriptor extraction in 61.0512 ms
-AKAZE with n= 1347 keypoints in 61.0048 ms
-AKAZE descriptor extraction in 66.4674 ms
-AKAZE with n= 1363 keypoints in 65.9026 ms
-AKAZE descriptor extraction in 63.21 ms
-AKAZE with n= 1331 keypoints in 62.7352 ms
-AKAZE descriptor extraction in 61.1554 ms
-AKAZE with n= 1357 keypoints in 70.3916 ms
-AKAZE descriptor extraction in 69.0645 ms
-AKAZE with n= 1331 keypoints in 73.2625 ms
-AKAZE descriptor extraction in 57.7453 ms
+
+AKAZE with n= 1351 keypoints in 83.6214 ms
+AKAZE descriptor extraction in 69.6459 ms
+AKAZE with n= 1327 keypoints in 82.6064 ms
+AKAZE descriptor extraction in 76.2656 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=138 matches in 0.403697 ms
+AKAZE with n= 1311 keypoints in 82.274 ms
+AKAZE descriptor extraction in 78.6854 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=138 matches in 0.657112 ms
+AKAZE with n= 1351 keypoints in 75.2366 ms
+AKAZE descriptor extraction in 58.4465 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=133 matches in 0.381275 ms
+AKAZE with n= 1360 keypoints in 65.9895 ms
+AKAZE descriptor extraction in 65.5983 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=127 matches in 0.594575 ms
+AKAZE with n= 1347 keypoints in 79.2498 ms
+AKAZE descriptor extraction in 68.8275 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=129 matches in 0.332654 ms
+AKAZE with n= 1363 keypoints in 77.7107 ms
+AKAZE descriptor extraction in 65.4817 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=146 matches in 0.387787 ms
+AKAZE with n= 1331 keypoints in 80.7446 ms
+AKAZE descriptor extraction in 66.8156 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=147 matches in 0.305533 ms
+AKAZE with n= 1357 keypoints in 76.9947 ms
+AKAZE descriptor extraction in 67.4465 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=151 matches in 1.76981 ms
+AKAZE with n= 1331 keypoints in 77.5664 ms
+AKAZE descriptor extraction in 60.9759 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=150 matches in 0.411172 ms
 
 
 ########### BRISK, BRISK ###########
 
-BRISK with n= 2757 keypoints in 32.0807 ms
-BRISK descriptor extraction in 2.36863 ms
-BRISK with n= 2777 keypoints in 30.548 ms
-BRISK descriptor extraction in 2.10918 ms
-BRISK with n= 2741 keypoints in 34.1594 ms
-BRISK descriptor extraction in 2.11912 ms
-BRISK with n= 2735 keypoints in 29.5085 ms
-BRISK descriptor extraction in 2.13528 ms
-BRISK with n= 2757 keypoints in 31.3553 ms
-BRISK descriptor extraction in 2.2596 ms
-BRISK with n= 2695 keypoints in 30.5591 ms
-BRISK descriptor extraction in 2.15048 ms
-BRISK with n= 2715 keypoints in 30.8339 ms
-BRISK descriptor extraction in 2.25262 ms
-BRISK with n= 2628 keypoints in 30.5895 ms
-BRISK descriptor extraction in 2.21171 ms
-BRISK with n= 2639 keypoints in 30.0453 ms
-BRISK descriptor extraction in 2.04672 ms
-BRISK with n= 2672 keypoints in 34.2036 ms
-BRISK descriptor extraction in 1.98511 ms
+BRISK with n= 2757 keypoints in 30.9556 ms
+BRISK descriptor extraction in 2.42949 ms
+BRISK with n= 2777 keypoints in 34.9054 ms
+BRISK descriptor extraction in 2.27751 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=171 matches in 0.695655 ms
+BRISK with n= 2741 keypoints in 31.7607 ms
+BRISK descriptor extraction in 2.18494 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=176 matches in 0.780574 ms
+BRISK with n= 2735 keypoints in 30.7006 ms
+BRISK descriptor extraction in 2.34096 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=157 matches in 0.851927 ms
+BRISK with n= 2757 keypoints in 29.7889 ms
+BRISK descriptor extraction in 2.42961 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=176 matches in 0.886713 ms
+BRISK with n= 2695 keypoints in 30.7072 ms
+BRISK descriptor extraction in 2.36415 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=174 matches in 0.865824 ms
+BRISK with n= 2715 keypoints in 37.0952 ms
+BRISK descriptor extraction in 2.27641 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=188 matches in 0.863439 ms
+BRISK with n= 2628 keypoints in 34.3794 ms
+BRISK descriptor extraction in 2.32011 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=173 matches in 0.917792 ms
+BRISK with n= 2639 keypoints in 33.6813 ms
+BRISK descriptor extraction in 2.18999 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=171 matches in 0.679134 ms
+BRISK with n= 2672 keypoints in 31.1954 ms
+BRISK descriptor extraction in 2.02637 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=184 matches in 0.670548 ms
 
 
 ########### ORB, ORB ###########
 
-ORB with n= 500 keypoints in 144.177 ms
-ORB descriptor extraction in 10.1967 ms
-ORB with n= 500 keypoints in 8.82753 ms
-ORB descriptor extraction in 3.83901 ms
-ORB with n= 500 keypoints in 8.60318 ms
-ORB descriptor extraction in 4.33627 ms
-ORB with n= 500 keypoints in 5.96156 ms
-ORB descriptor extraction in 4.21396 ms
-ORB with n= 500 keypoints in 6.39793 ms
-ORB descriptor extraction in 4.17986 ms
-ORB with n= 500 keypoints in 6.89991 ms
-ORB descriptor extraction in 4.16819 ms
-ORB with n= 500 keypoints in 6.10505 ms
-ORB descriptor extraction in 4.393 ms
-ORB with n= 500 keypoints in 9.35964 ms
-ORB descriptor extraction in 4.54333 ms
-ORB with n= 500 keypoints in 7.89355 ms
-ORB descriptor extraction in 4.81087 ms
-ORB with n= 500 keypoints in 8.95989 ms
-ORB descriptor extraction in 5.09475 ms
+[100%] Built target 2D_feature_tracking
+./2D_feature_tracking: /home/sun/anaconda3/lib/libtiff.so.5: no version information available (required by /usr/local/lib/libopencv_imgcodecs.so.4.1)
+ORB with n= 500 keypoints in 111.738 ms
+ORB descriptor extraction in 4.30057 ms
+ORB with n= 500 keypoints in 6.55984 ms
+ORB descriptor extraction in 4.38911 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=67 matches in 0.203943 ms
+ORB with n= 500 keypoints in 8.51812 ms
+ORB descriptor extraction in 6.11985 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=70 matches in 0.216256 ms
+ORB with n= 500 keypoints in 6.75712 ms
+ORB descriptor extraction in 4.0012 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=72 matches in 0.15976 ms
+ORB with n= 500 keypoints in 6.37889 ms
+ORB descriptor extraction in 4.16256 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=84 matches in 0.154529 ms
+ORB with n= 500 keypoints in 6.77254 ms
+ORB descriptor extraction in 4.32578 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=91 matches in 0.194134 ms
+ORB with n= 500 keypoints in 7.14981 ms
+ORB descriptor extraction in 4.28439 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=101 matches in 0.210324 ms
+ORB with n= 500 keypoints in 7.26431 ms
+ORB descriptor extraction in 4.2549 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=92 matches in 0.220964 ms
+ORB with n= 500 keypoints in 8.57334 ms
+ORB descriptor extraction in 4.32385 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=93 matches in 0.223769 ms
+ORB with n= 500 keypoints in 7.46283 ms
+ORB descriptor extraction in 4.59618 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=93 matches in 0.192722 ms
 
 
 ########### SIFT, SIFT ###########
 
-SIFT with n= 1437 keypoints in 120.412 ms
-SIFT descriptor extraction in 85.6241 ms
-SIFT with n= 1371 keypoints in 82.024 ms
-SIFT descriptor extraction in 65.4969 ms
-SIFT with n= 1381 keypoints in 82.8281 ms
-SIFT descriptor extraction in 71.9729 ms
-SIFT with n= 1336 keypoints in 85.5815 ms
-SIFT descriptor extraction in 67.8498 ms
-SIFT with n= 1303 keypoints in 89.8132 ms
-SIFT descriptor extraction in 74.2333 ms
-SIFT with n= 1370 keypoints in 90.4356 ms
-SIFT descriptor extraction in 74.3878 ms
-SIFT with n= 1396 keypoints in 84.8928 ms
-SIFT descriptor extraction in 74.2042 ms
-SIFT with n= 1382 keypoints in 80.5384 ms
-SIFT descriptor extraction in 69.4004 ms
-SIFT with n= 1462 keypoints in 82.8913 ms
-SIFT descriptor extraction in 83.5062 ms
-SIFT with n= 1422 keypoints in 76.2653 ms
-SIFT descriptor extraction in 68.569 ms
+SIFT with n= 1437 keypoints in 103.859 ms
+SIFT descriptor extraction in 77.684 ms
+SIFT with n= 1371 keypoints in 74.4862 ms
+SIFT descriptor extraction in 70.9345 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=82 matches in 2.55314 ms
+SIFT with n= 1381 keypoints in 85.558 ms
+SIFT descriptor extraction in 68.5022 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=81 matches in 1.86451 ms
+SIFT with n= 1336 keypoints in 72.8097 ms
+SIFT descriptor extraction in 70.824 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=86 matches in 1.89717 ms
+SIFT with n= 1303 keypoints in 77.2392 ms
+SIFT descriptor extraction in 74.6786 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=95 matches in 1.93773 ms
+SIFT with n= 1370 keypoints in 77.3704 ms
+SIFT descriptor extraction in 70.8214 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=90 matches in 2.79468 ms
+SIFT with n= 1396 keypoints in 70.6995 ms
+SIFT descriptor extraction in 78.0307 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=81 matches in 2.03426 ms
+SIFT with n= 1382 keypoints in 72.775 ms
+SIFT descriptor extraction in 77.119 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=82 matches in 2.01252 ms
+SIFT with n= 1462 keypoints in 77.709 ms
+SIFT descriptor extraction in 68.4407 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=103 matches in 2.27713 ms
+SIFT with n= 1422 keypoints in 88.799 ms
+SIFT descriptor extraction in 63.7122 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=103 matches in 2.51114 ms
 
 
 ########### Harris, SIFT ###########
 
-Harris detection with n=115 keypoints in 18.5204 ms
-SIFT descriptor extraction in 23.288 ms
-Harris detection with n=98 keypoints in 12.9284 ms
-SIFT descriptor extraction in 15.3736 ms
-Harris detection with n=113 keypoints in 13.4483 ms
-SIFT descriptor extraction in 15.4317 ms
-Harris detection with n=121 keypoints in 11.7912 ms
-SIFT descriptor extraction in 16.8638 ms
-Harris detection with n=160 keypoints in 13.6908 ms
-SIFT descriptor extraction in 20.2971 ms
-Harris detection with n=383 keypoints in 22.7691 ms
-SIFT descriptor extraction in 17.2095 ms
-Harris detection with n=85 keypoints in 13.7143 ms
-SIFT descriptor extraction in 16.1376 ms
-Harris detection with n=210 keypoints in 19.1862 ms
-SIFT descriptor extraction in 16.7217 ms
-Harris detection with n=171 keypoints in 16.6665 ms
-SIFT descriptor extraction in 16.1666 ms
-Harris detection with n=281 keypoints in 21.5046 ms
-SIFT descriptor extraction in 13.575 ms
+Harris detection with n=115 keypoints in 18.4843 ms
+SIFT descriptor extraction in 24.44 ms
+Harris detection with n=98 keypoints in 16.4098 ms
+SIFT descriptor extraction in 17.6576 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=14 matches in 0.461666 ms
+Harris detection with n=113 keypoints in 10.8225 ms
+SIFT descriptor extraction in 18.1631 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=11 matches in 0.291927 ms
+Harris detection with n=121 keypoints in 12.3457 ms
+SIFT descriptor extraction in 17.2724 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=16 matches in 0.263504 ms
+Harris detection with n=160 keypoints in 13.7682 ms
+SIFT descriptor extraction in 18.5503 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=19 matches in 0.368611 ms
+Harris detection with n=383 keypoints in 21.0132 ms
+SIFT descriptor extraction in 21.4267 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=22 matches in 0.643877 ms
+Harris detection with n=85 keypoints in 12.6305 ms
+SIFT descriptor extraction in 16.2775 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=22 matches in 1.19029 ms
+Harris detection with n=210 keypoints in 11.7116 ms
+SIFT descriptor extraction in 20.5227 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=13 matches in 0.493015 ms
+Harris detection with n=171 keypoints in 14.0952 ms
+SIFT descriptor extraction in 16.3927 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=24 matches in 0.620604 ms
+Harris detection with n=281 keypoints in 15.6142 ms
+SIFT descriptor extraction in 21.2161 ms
+With matcher type MAT_FLANN and selector type SEL_KNN match descriptors with n=22 matches in 0.456706 ms
+
+
+########### FAST, SIFT ###########
+
+FAST with n= 1824 keypoints in 0.942448 ms
+SIFT descriptor extraction in 23.3463 ms
+FAST with n= 1832 keypoints in 1.2643 ms
+SIFT descriptor extraction in 27.1952 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=149 matches in 2.81388 ms
+FAST with n= 1810 keypoints in 0.784541 ms
+SIFT descriptor extraction in 21.9926 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=152 matches in 2.14074 ms
+FAST with n= 1817 keypoints in 0.857078 ms
+SIFT descriptor extraction in 26.2767 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=150 matches in 2.56332 ms
+FAST with n= 1793 keypoints in 0.727384 ms
+SIFT descriptor extraction in 20.1712 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=155 matches in 2.15449 ms
+FAST with n= 1796 keypoints in 0.814117 ms
+SIFT descriptor extraction in 24.325 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=149 matches in 1.8468 ms
+FAST with n= 1788 keypoints in 0.859171 ms
+SIFT descriptor extraction in 22.6112 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=149 matches in 1.94869 ms
+FAST with n= 1695 keypoints in 0.84739 ms
+SIFT descriptor extraction in 22.6981 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=156 matches in 1.89986 ms
+FAST with n= 1749 keypoints in 0.712296 ms
+SIFT descriptor extraction in 20.8001 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=150 matches in 1.98725 ms
+FAST with n= 1770 keypoints in 0.689593 ms
+SIFT descriptor extraction in 19.7778 ms
+With matcher type MAT_FLANN and selector type SEL_NN match descriptors with n=138 matches in 1.60509 ms
 
 
 ########### Harris, BRISK ###########
 
-Harris detection with n=115 keypoints in 15.5647 ms
-BRISK descriptor extraction in 0.449633 ms
-Harris detection with n=98 keypoints in 14.244 ms
-BRISK descriptor extraction in 0.66695 ms
-Harris detection with n=113 keypoints in 13.325 ms
-BRISK descriptor extraction in 0.947386 ms
-Harris detection with n=121 keypoints in 11.5394 ms
-BRISK descriptor extraction in 1.02312 ms
-Harris detection with n=160 keypoints in 14.4464 ms
-BRISK descriptor extraction in 0.690114 ms
-Harris detection with n=383 keypoints in 25.4804 ms
-BRISK descriptor extraction in 0.862167 ms
-Harris detection with n=85 keypoints in 15.7902 ms
-BRISK descriptor extraction in 0.350186 ms
-Harris detection with n=210 keypoints in 16.4526 ms
-BRISK descriptor extraction in 0.453931 ms
-Harris detection with n=171 keypoints in 13.4441 ms
-BRISK descriptor extraction in 0.808576 ms
-Harris detection with n=281 keypoints in 19.3481 ms
-BRISK descriptor extraction in 0.450435 ms
+Harris detection with n=115 keypoints in 13.6061 ms
+BRISK descriptor extraction in 0.503314 ms
+Harris detection with n=98 keypoints in 10.8462 ms
+BRISK descriptor extraction in 0.752832 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=12 matches in 0.167965 ms
+Harris detection with n=113 keypoints in 15.7668 ms
+BRISK descriptor extraction in 0.735028 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=10 matches in 0.329518 ms
+Harris detection with n=121 keypoints in 14.5992 ms
+BRISK descriptor extraction in 0.75726 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=14 matches in 0.339446 ms
+Harris detection with n=160 keypoints in 12.8787 ms
+BRISK descriptor extraction in 0.766748 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=15 matches in 0.35721 ms
+Harris detection with n=383 keypoints in 20.2621 ms
+BRISK descriptor extraction in 0.898195 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=16 matches in 0.463298 ms
+Harris detection with n=85 keypoints in 10.9143 ms
+BRISK descriptor extraction in 0.781385 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=16 matches in 0.086221 ms
+Harris detection with n=210 keypoints in 12.8975 ms
+BRISK descriptor extraction in 0.823575 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=15 matches in 0.452268 ms
+Harris detection with n=171 keypoints in 11.6308 ms
+BRISK descriptor extraction in 0.782027 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=23 matches in 0.097824 ms
+Harris detection with n=281 keypoints in 16.3848 ms
+BRISK descriptor extraction in 0.840416 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=21 matches in 0.090329 ms
 
 
 ########### SIFT, BRISK ###########
 
-SIFT with n= 1437 keypoints in 114.106 ms
-BRISK descriptor extraction in 2.03263 ms
-SIFT with n= 1371 keypoints in 99.3074 ms
-BRISK descriptor extraction in 1.82815 ms
-SIFT with n= 1381 keypoints in 87.3579 ms
-BRISK descriptor extraction in 1.22483 ms
-SIFT with n= 1336 keypoints in 77.8956 ms
-BRISK descriptor extraction in 1.2294 ms
-SIFT with n= 1303 keypoints in 82.2445 ms
-BRISK descriptor extraction in 1.20355 ms
-SIFT with n= 1370 keypoints in 86.509 ms
-BRISK descriptor extraction in 1.32489 ms
-SIFT with n= 1396 keypoints in 81.5336 ms
-BRISK descriptor extraction in 1.50155 ms
-SIFT with n= 1382 keypoints in 77.5534 ms
-BRISK descriptor extraction in 1.89657 ms
-SIFT with n= 1462 keypoints in 82.5779 ms
-BRISK descriptor extraction in 2.7451 ms
-SIFT with n= 1422 keypoints in 82.9811 ms
-BRISK descriptor extraction in 1.57812 ms
+SIFT with n= 1437 keypoints in 107.825 ms
+BRISK descriptor extraction in 1.34192 ms
+SIFT with n= 1371 keypoints in 100.336 ms
+BRISK descriptor extraction in 1.23052 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=64 matches in 0.329799 ms
+SIFT with n= 1381 keypoints in 91.6031 ms
+BRISK descriptor extraction in 2.08981 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=66 matches in 0.326502 ms
+SIFT with n= 1336 keypoints in 79.1957 ms
+BRISK descriptor extraction in 1.30856 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=63 matches in 0.237896 ms
+SIFT with n= 1303 keypoints in 76.0577 ms
+BRISK descriptor extraction in 1.21188 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=67 matches in 0.350437 ms
+SIFT with n= 1370 keypoints in 76.3171 ms
+BRISK descriptor extraction in 1.25444 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=59 matches in 0.304851 ms
+SIFT with n= 1396 keypoints in 79.2379 ms
+BRISK descriptor extraction in 1.2112 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=64 matches in 0.414608 ms
+SIFT with n= 1382 keypoints in 81.9139 ms
+BRISK descriptor extraction in 1.31371 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=64 matches in 0.258505 ms
+SIFT with n= 1462 keypoints in 77.6571 ms
+BRISK descriptor extraction in 1.54141 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=67 matches in 0.320251 ms
+SIFT with n= 1422 keypoints in 75.891 ms
+BRISK descriptor extraction in 1.21839 ms
+With matcher type MAT_BF and selector type SEL_KNN match descriptors with n=80 matches in 0.353342 ms
 
